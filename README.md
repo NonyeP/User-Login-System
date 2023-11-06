@@ -35,10 +35,10 @@ login portal with functionalities including account login, creation, and passwor
 
 # Demo 
 Below are the link of the images of a the login pages designed in Java and HTML5:
-HTML5: ![image](https://github.com/NonyeP/User-Login-System/assets/108188605/e326ab81-e2ee-4d6b-aa83-93834eb1e181)
 
+HTML5: [src/](https://github.com/NonyeP/User-Login-System/blob/main/UserLogin/src/htmlform%20image.png)
 
-Java Swing:
+Java Swing: [src/]( https://github.com/NonyeP/User-Login-System/blob/main/BankLogin.png)
 
 
 # Installation Steps
@@ -66,7 +66,7 @@ Run the Application:
 Execute the application using the provided executable file or command. For Java applications, you might run a command if it's a runnable
 JAR file.
 
-# Useage and configuration
+# Usage and configuration
   - This project aims to illustrate a simplified model of a bank's login system and account management, providing a user-friendly interface for 
    users to log in, create accounts, and manage passwords securely. it can be used as a model to create other login pages.
 
