@@ -15,7 +15,7 @@ basic window with fields for a username and password.
 - Additional Notes
 
 # Login Page
-This project represents a banking login system developed in Java Swing and another in HTNL5. The graphical user interface simulates a bank 
+This project represents a banking login system developed in Java Swing and another in HTML5. The graphical user interface simulates a bank 
 login portal with functionalities including account login, creation, and password management.
 
 # Features:
@@ -35,8 +35,11 @@ login portal with functionalities including account login, creation, and passwor
 
 # Demo 
 Below are the link of the images of a the login pages designed in Java and HTML5:
-HTML5:
+HTML5: ![image](https://github.com/NonyeP/User-Login-System/assets/108188605/e326ab81-e2ee-4d6b-aa83-93834eb1e181)
+
+
 Java Swing:
+
 
 # Installation Steps
 Follow these steps to install:
